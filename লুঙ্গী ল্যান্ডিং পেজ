@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>১০০% খাঁটি সুতির লুঙ্গি (৫.৫ হাত) - অর্ডার করুন</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <style>
+        body { font-family: 'Arial', sans-serif; }
+        .hero { background: url('lungi-banner.jpg') no-repeat center center/cover; color: white; padding: 80px 0; text-align: center; }
+        .product-img { max-width: 100%; height: auto; margin: 20px 0; }
+        .cta-button { background: #ff5722; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: inline-block; }
+        .cta-button:hover { background: #e64a19; }
+    </style>
+</head>
+<body>
+    <header class="hero">
+        <h1>১০০% খাঁটি সুতির লুঙ্গি (৫.৫ হাত)</h1>
+        <p>আরামদায়ক, টেকসই ও স্টাইলিশ মাল্টি-কালার লুঙ্গি - এখনই কিনুন!</p>
+        <a href="#order" class="cta-button">অর্ডার করুন</a>
+    </header>
+    
+    <section class="container text-center my-5">
+        <h2>আমাদের লুঙ্গির বৈশিষ্ট্য</h2>
+        <p>✅ খাঁটি সুতি | ✅ ৫.৫ হাত দৈর্ঘ্য | ✅ মাল্টি-কালার ডিজাইন | ✅ আরামদায়ক ও দীর্ঘস্থায়ী</p>
+        <img src="lungi.jpg" alt="খাঁটি সুতির লুঙ্গি" class="product-img">
+    </section>
+    
+    <section class="container my-5">
+        <h2 class="text-center">কাস্টমার রিভিউ</h2>
+        <p>🌟🌟🌟🌟🌟 "খুবই আরামদায়ক এবং ভালো মানের লুঙ্গি!" - হাসান, ঢাকা</p>
+        <p>🌟🌟🌟🌟🌟 "স্টাইলিশ ডিজাইন, আবার কিনবো!" - রিয়াজ, চট্টগ্রাম</p>
+    </section>
+    
+    <section class="container text-center my-5" id="order">
+        <h2>বিশেষ অফার</h2>
+        <p>🔥 মাত্র ৩৯৯ টাকা! (সীমিত সময়ের জন্য) 🔥</p>
+        <a href="order.html" class="cta-button">এখনই অর্ডার করুন</a>
+    </section>
+    
+    <footer class="text-center py-3 bg-dark text-white">
+        <p>📞 যোগাযোগ: <a href="tel:017XXXXXXXX" class="text-white">017XXXXXXXX</a> | 📩 ইমেইল: <a href="mailto:support@sutirhatbd.com" class="text-white">support@sutirhatbd.com</a></p>
+    </footer>
+</body>
+</html>
